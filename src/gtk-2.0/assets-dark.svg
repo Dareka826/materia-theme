@@ -23,7 +23,7 @@
     </linearGradient>
 
     <linearGradient id="color-primary">
-      <stop offset="1" stop-color="#8ab4f8"/>
+      <stop offset="1" stop-color="#6600FF"/>
     </linearGradient>
 
     <linearGradient id="color-text">
@@ -71,11 +71,11 @@
     </linearGradient>
 
     <linearGradient id="color-overlay-primary-hover">
-      <stop offset="1" stop-color="#8ab4f8" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#6600FF" stop-opacity=".12"/>
     </linearGradient>
 
     <linearGradient id="color-overlay-primary-active">
-      <stop offset="1" stop-color="#8ab4f8" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#6600FF" stop-opacity=".28"/>
     </linearGradient>
 
     <filter id="z1" color-interpolation-filters="sRGB" x="0" y="0" width="1" height="1">

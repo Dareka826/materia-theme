@@ -13,7 +13,7 @@
     </linearGradient>
 
     <linearGradient id="light-theme-primary">
-      <stop offset="1" stop-color="#1a73e8"/>
+      <stop offset="1" stop-color="#6600FF"/>
     </linearGradient>
 
     <linearGradient id="light-theme-on-primary">
@@ -33,7 +33,7 @@
     </linearGradient>
 
     <linearGradient id="dark-theme-primary">
-      <stop offset="1" stop-color="#8ab4f8"/>
+      <stop offset="1" stop-color="#6600FF"/>
     </linearGradient>
 
     <linearGradient id="dark-theme-on-primary">

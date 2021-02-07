@@ -17,7 +17,7 @@ $menuitem-size: 28px;
 // Radii
 //
 
-$corner-radius: 4px;
+$corner-radius: 0px;
 $circular-radius: 9999px;
 
 //
@@ -25,9 +25,9 @@ $circular-radius: 9999px;
 //
 
 $duration: 75ms;
-$ripple-fade-in-duration: 225ms;
-$ripple-fade-out-duration: 300ms;
-$ripple-fade-out-opacity-duration: 1200ms;
+$ripple-fade-in-duration: 0ms;
+$ripple-fade-out-duration: 0ms;
+$ripple-fade-out-opacity-duration: 0ms;
 
 //
 // Timing functions

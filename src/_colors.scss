@@ -100,13 +100,13 @@ $surface: #fff;
 $switch-surface: #fff; // Special case for switches
 $on-surface: on($surface);
 
-$primary-on-light: #1a73e8;
-$primary-on-dark: #8ab4f8;
+$primary-on-light: #6600ff;
+$primary-on-dark: #6600ff;
 $primary: $primary-on-light;
 $on-primary: on($primary);
 
 $error-on-light: #d93025;
-$error-on-dark: #f28b82;
+$error-on-dark: #ff6600;
 $error: $error-on-light;
 $on-error: on($error);
 
